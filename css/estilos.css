@@ -1,0 +1,79 @@
+/*estilo de aparencia da caixa de video na no layout*/
+.videoAmplitude {
+	width: 800px;
+	height: 500px;
+}
+
+/*estilos globais*/
+body {
+	font-family: cursive, arial, san-serif;
+	background: azure;
+	margin-left: 170px;
+	margin-right: 170px;
+	padding: 0;
+}
+
+a:link {
+	color: red;
+}
+
+a:visited {
+	color: #b93411;
+}
+
+a:focus {
+	color: #000;
+}
+
+a:hover {
+	color: #7d8206;
+}
+
+a:active {
+	color: red;
+}
+
+h2 {
+	color: B52C07;
+	font-size: 22px;
+}
+
+h3 {
+	color: #7d8206;
+	font-size: 12px;;
+}
+
+/*estilo do div titulo*/
+#titulo {
+	margin: 0em auto;
+	width: 100%;
+	text-align: center;
+	color: white;
+	background: black;
+	border: 2px solid red;
+	background: black;
+	border: 2px solid red;
+	font-family: fantasy, times new roman;
+}
+
+/*estilo do div cabecalho*/
+#cabecalho {
+	color: red;
+	font: 140% georgia, times, "times new roman", serif;
+}
+
+/*estilos do conteudo*/
+#conteudo {
+	font-size: 18px;
+	text-align: left;
+}
+
+/*estilo do rodape*/
+#rodape {
+	width: 100%;
+	text-align: center;
+	color: white;
+	background: black;
+	border: 2px solid red;
+	font-family: fantasy, times new roman;
+}
